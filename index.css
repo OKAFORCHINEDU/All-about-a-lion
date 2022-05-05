@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    background-color: #281b2d;
+    margin-top: 0;
+    padding: 5px 0;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#header-figure {
+    margin-top: 0;
+}
+
+.main-section {
+    margin-top: 0px;
+}
+
+h2 {
+    background-color: #281b2d;
+    color: #fcd801;
+    border-bottom: 5px solid #00c54c;
+    font-size: 48px;
+    padding: 20px;
+    margin-bottom: 0;
+}
+
+#cannivore {
+    padding: 5px;
+    border: 2px solid white;
+    text-align: center;
+}
+
+#white-text {
+    color: white;
+}
+
+.container {
+    max-width: 1000px;
+    text-align: center;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.main-column {
+    display: flex;
+}
+
+.mid-column {
+    display: flex;
+}
+
+#focus {
+    margin-left: 300px;
+}
